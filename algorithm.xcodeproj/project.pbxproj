@@ -60,8 +60,8 @@
 		E693D145218D842600DD65B0 /* algorithm */ = {
 			isa = PBXGroup;
 			children = (
-				E693D14D218D853900DD65B0 /* first_introduction.cpp */,
 				E693D14E218D853900DD65B0 /* first_introduction.hpp */,
+				E693D14D218D853900DD65B0 /* first_introduction.cpp */,
 				E693D146218D842600DD65B0 /* main.cpp */,
 			);
 			path = algorithm;
